@@ -102,6 +102,22 @@ button:hover {
     background-color: #005fa3;
 }
 
+#button-group {
+    width: 100%;
+    margin: 0 auto;
+}
+
+button {
+    width: 100%;
+    font-size: 1.3em;
+}
+
+#recommendation-text {
+    font-style: italic;
+    font-size: 1.2em;
+    text-align: center;
+}
+
 /* Tables */
 table {
     width: 100%;
@@ -207,23 +223,6 @@ footer a:hover {
 
 .recommendation {
     margin-top: 20px;
-}
-
-/* Buttons */
-#button-group {
-    width: 100%;
-    margin: 0 auto;
-}
-
-button {
-    width: 100%;
-    font-size: 1.3em;
-}
-
-#button-text {
-    font-style: italic;
-    font-size: .9em;
-    text-align: center;
 }
 
 /* Responsive Design */
